@@ -4,14 +4,16 @@ import nodeIcon from "../../assets/images/node.svg";
 import { motion } from "framer-motion";
 const experiences = [
   {
-    title: "Node.js Developer",
+    title: "FullStack Developer",
     company: "IqSetters LLP",
     location: "Noida, India",
     description:
-      "Led backend development for 5+ apps, did end to end development, managed AWS/Azure, automated CI/CD, improved workflows, integrated APIs, and delivered key projects on time.",
+      "Led backend development for 6+ apps, did end to end development, managed AWS/Azure, automated CI/CD, improved workflows, integrated APIs, and delivered key projects on time.",
     icon: nodeIcon,
     technologies: [
       "Node.js",
+      "Express.js",
+      "React.js",
       "TypeScript",
       "MongoDB",
       "PostgreSQL",
@@ -22,7 +24,7 @@ const experiences = [
       "AWS",
       "GitHub Actions",
     ],
-    duration: "Jan 2025 – Sept 2025",
+    duration: "Jan 2025 – Aug 2026",
   },
   {
     title: "Backend Developer",
